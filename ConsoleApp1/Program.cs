@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            string test = "this is for testing the connection in GitHub";
         }
     }
 }
